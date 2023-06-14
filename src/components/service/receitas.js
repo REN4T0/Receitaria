@@ -1,0 +1,7 @@
+ const receitas = [
+  {id: 0, nome: "Macarrão italiano", descricao: "Macarrão itáliano ao molho vermelho", img:"https://www.jornaldevinhedo.com.br/wp-content/uploads/2019/09/11911_espaguetefalse.jpg", ingredientes: "Molho de tomate; Macarrão Nº4; alho manjericão; sal a gosto; azeite", preparo: "1. Cozinhe o macarrão em água fervente e sal, até que fique 'al dente'; 2. Enquanto isso, em uma panela, aqueça o azeite, adicione os tomates, o MAGGI MEU SEGREDO e refogue ligeiramente. Junte o manjericão e misture; 3. Escorra o macarrão, coloque em um recipiente refratário e adicione o refogado de tomates; 4. Polvilhe o queijo ralado e sirva a seguir."},
+  
+  {id: 1, nome: "Cookies de chocolate", descricao: "Cookies caseiros de chocolate", img:"https://th.bing.com/th/id/OIP.ogX2KnMWVU8wnFEsxjvZUQAAAA?pid=ImgDet&rs=1", ingredientes: "Molho de tomate; Macarrão Nº4; alho manjericão; sal a gosto; azeite", preparo: "1. Cozinhe o macarrão em água fervente e sal, até que fique 'al dente'; 2. Enquanto isso, em uma panela, aqueça o azeite, adicione os tomates, o MAGGI MEU SEGREDO e refogue ligeiramente. Junte o manjericão e misture; 3. Escorra o macarrão, coloque em um recipiente refratário e adicione o refogado de tomates; 4. Polvilhe o queijo ralado e sirva a seguir."}
+];
+
+export default receitas;
